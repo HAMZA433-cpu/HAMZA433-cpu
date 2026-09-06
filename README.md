@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hamza Bakrim | Quantitative Finance & Data Science
+# 👋 Hamza Bakrim | Quantitative Finance & Data Analytics and Data Science
 
 [![Email](https://img.shields.io/badge/Email-bakrimhamza732@gmail.com-red?style=flat&logo=gmail)](mailto:bakrimhamza732@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Marrakesh,_Morocco-green?style=flat&logo=google-maps)](https://maps.google.com)
